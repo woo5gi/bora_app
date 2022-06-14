@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "501337586149",
+    "project_id": "bora-c6747",
+    "storage_bucket": "bora-c6747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501337586149:android:271af1a8b95e3df1c4970c",
+        "android_client_info": {
+          "package_name": "com.databayit.boraApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501337586149-9ftig95vkt3ji9pu0gf3j8d07sqag3kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-eQRjSfjuf6WfH7uXHAr8AHQ_eVCU7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501337586149-9ftig95vkt3ji9pu0gf3j8d07sqag3kt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501337586149-l54nq19obb2ssuiggs3ooc8lmf75lbgb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.databayit.boraApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
